@@ -20,3 +20,9 @@
   * [🐞Report a bug](support/report-a-bug.md)
   * [📕Ask for help](support/ask-for-help.md)
 
+## Developers
+
+* [☕️Java API](developers/java-api/README.md)
+  * [Basic API](developers/java-api/basic-api.md)
+  * [CustomCardRenderer](developers/java-api/customcardrenderer.md)
+
