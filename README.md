@@ -11,13 +11,3 @@ description: This website helps you configuring my plugin
 * ​[Steam developer page](https://store.steampowered.com/developer/LoneDev/)​
 * ​[Discord](https://discord.gg/4dfnpUK)
 
-​
-
-{% hint style="danger" %}
-## Please if you have ⛔️Adblock installed disable it because it blocks some of the website features! <a id="please-if-you-have-adblock-installed-disable-it-because-it-blocks-some-of-the-website-features"></a>
-
-\(translation, dark mode and others\)
-
-### This website has no ads, don't worry <a id="this-website-has-no-ads-dont-worry"></a>
-{% endhint %}
-
