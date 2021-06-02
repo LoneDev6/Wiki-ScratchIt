@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋🏻Welcome](README.md)
+* [👋🏻欢迎使用](README.md)
 * [⚙️First install](first-install.md)
 * [📄Online Config Editor](online-config-editor.md)
 * [📖Configurations](configurations/README.md)
