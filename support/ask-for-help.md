@@ -1,6 +1,6 @@
-# 📕Ask for help
+# 📕获取帮助
 
-If you still need help and you **did read all my wiki pages and plugin page** please open a support ticket here: 
+如果你在 **完整看完Wiki和插件发布页后** 依然需要帮助，请在以下链接打开一个工单: 
 
 {% embed url="http://a.devs.beer/scratchit-discord" %}
 
