@@ -1,21 +1,21 @@
-# Permissions
+# 权限
 
 * `scratchit.card.show_in_list_gui.PERMISSION`
-  * Allows you to show the card in the **/scratchit list** menu. Example: `scratchit.card.show_in_list_gui.default.homework`
+  * 允许在使用 **/scratchit list** 打开的页面查看某个卡片。 示例: `scratchit.card.show_in_list_gui.default.homework`
 * `scratchit.card.use.PERMISSION`
-  * Allows you to use the card. Example: `scratchit.card.use.default.homework`
+  * 允许使用某个卡片。 示例: `scratchit.card.use.default.homework`
 * `scratchit.user.list`
-  * Use the /scratchit list command
+  * 允许使用 `/scratchit list` 命令
 * `scratchit.admin.config`
-  * Use the `/scrachit config` command
+  * 允许使用 `/scrachit config` 命令
 * `scratchit.admin.config.reload`
-  * Use the `/scratchit config reload` command
+  * 允许使用 `/scratchit config reload` 命令
 * `scratchit.admin.config.AutoListAnimationFiles`
-  * Use the `/scratchit config AutoListAnimationFiles` command
+  * 允许使用 `/scratchit config AutoListAnimationFiles` 命令
 * `scratchit.admin.config.create`
-  * Use the `/scratchit config create` command
+  * 允许使用 `/scratchit config create` 命令
 * `scratchit.admin.get`
-  * Use the /scratchit get command
+  * 允许使用 `/scratchit get` 命令
 * `scratchit.admin.give`
-  * Use the `/scratchit give` command
+  * 允许使用 `/scratchit give` 命令
 
