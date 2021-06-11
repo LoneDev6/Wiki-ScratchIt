@@ -1,15 +1,15 @@
-# Minecraft versions compatibility
+# 兼容的Minecraft版本
 
-## If your server has ViaVersion
+## 如果你的服务器是跨版本服务器
 
 {% hint style="info" %}
-### This is important to optimize the plugin if your server accepts only some Minecraft versions.
+### 如果你的服务器是单版本服务器，那以下的优化设置十分重要：
 
   
-ScratchIt must create different optimized map images because all Minecraft versions have different colors support, you can disable some to speedup the plugin startup process.
+ScratchIt在使用时针对不同的Minecraft版本会创建不同的地图实例，因为不同版本的地图不同。你可以禁用某些版本的地图来优化插件。
 {% endhint %}
 
-If you're using ViaVersion to allow multiple clients to connect to your server you have to make sure to check these options in `config.yml`
+如果你使用的是跨版本服务器，则必须检查 `config.yml` 中以下的选项是否打开。
 
 ```yaml
 graphics:
@@ -19,9 +19,8 @@ graphics:
     v1_16: true
 ```
 
-* Set `v1_8` to **true** if your server accepts 1.8 to 1.11 clients
-* Set `v1_12` to **true** if your server accepts 1.12 to 1.15 clients
-* Set `v1_16` to **true** if your server accepts 1.16+ clients
-
+* 如果你的服务器支持1.8-1.11的客户端连入，则将 `v1_8` 设为 **true** 
+* 如果你的服务器支持1.12-1.15的客户端连入，则将 `v1_12` 设为 **true** 
+* 如果你的服务器支持1.16的客户端连入，则将 `v1_16` 设为 **true** 
 
 
