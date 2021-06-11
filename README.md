@@ -1,5 +1,5 @@
 ---
-description: This website helps you configuring my plugin
+description: 这个页面将帮助你了解如何配置该插件
 ---
 
 # 👋🏻欢迎使用
