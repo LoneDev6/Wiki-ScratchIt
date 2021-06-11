@@ -1,16 +1,16 @@
-# ⚙️First install
+# ⚙️首次安装
 
-## Installing the plugin
+## 如何安装该插件
 
-* Install **ScratchIt**
-* install [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
-* install [LoneLibs](https://www.spigotmc.org/resources/lonelibs.75974/)
-* Start the server
+* 安装 **ScratchIt**
+* 安装 [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
+* 安装 [LoneLibs](https://www.spigotmc.org/resources/lonelibs.75974/)
+* 启动服务器
 
 {% hint style="warning" %}
-If you have ViaVersion please:
+如果你是跨版本服务器，请:
 
-* update it to the [latest version](https://ci.viaversion.com/job/ViaVersion-DEV/).
-* if you have [ViaBackwards ](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/)and [ViaRewind ](https://ci.viaversion.com/view/ViaRewind/job/ViaRewind-DEV/)please update them also.
+* 更新到 [最新版本](https://ci.viaversion.com/job/ViaVersion-DEV/).
+* 如果你服务器还有 [ViaBackwards ](https://ci.viaversion.com/view/ViaBackwards/job/ViaBackwards-DEV/)和 [ViaRewind ](https://ci.viaversion.com/view/ViaRewind/job/ViaRewind-DEV/)请也更新至最新版本。
 {% endhint %}
 

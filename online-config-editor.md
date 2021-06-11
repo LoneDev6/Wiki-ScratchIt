@@ -1,34 +1,34 @@
-# 📄Online Config Editor
+# 📄在线编辑器
 
-## How to use the online config editor?
+## 我该如何使用在线编辑器？
 
-### Step 1
+### 第一步
 
-Use the command `/scratchit config editconfig NAME`
+使用 `/scratchit config editconfig NAME` 命令
 
-### Step 2
+### 第二步
 
-Click on the link in chat
+打开聊天栏给予你的链接
 
 ![](.gitbook/assets/immagine%20%2811%29.png)
 
-### Step 3
+### 第三步
 
-Edit the item as you wish
+编辑你想要的物品
 
 ![](.gitbook/assets/immagine%20%288%29.png)
 
-### Step 4
+### 第四步
 
-Click on **SAVE**
+点击 **SAVE**
 
-### **Step 5**
+### **第五步**
 
-Press **CTRL+V** in your game **chat** and press **ENTER**
+在你的游戏 **聊天栏** 内按下 **CTRL+V** ，然后按下 **ENTER**
 
 ![](.gitbook/assets/immagine%20%286%29.png)
 
-### **DONE!**
+### **搞定**
 
 
 

@@ -1,6 +1,6 @@
-# 🐞Report a bug
+# 🐞反馈漏洞
 
-## To report a bug please click here:
+## 如你想反馈漏洞，请点击以下链接反馈:
 
 {% embed url="https://github.com/PluginBugs/Issues-ScratchIt/issues" %}
 
